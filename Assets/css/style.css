@@ -1,0 +1,42 @@
+.card {
+  background-color: rgba(
+    244,
+    244,
+    244,
+    0.726
+  ); /* Gris claro y semitransparente */
+  border: none; /* Opcional: quitar el borde si no lo deseas */
+  backdrop-filter: blur(2px); /* Opcional: añade un efecto de desenfoque */
+}
+
+.fa-linkedin {
+  color: rgb(6, 92, 211);
+}
+
+.fa-envelope {
+  color: rgb(223, 151, 6);
+}
+
+.fa-phone {
+  color: rgb(89, 67, 2);
+}
+
+.contacto {
+  background-color: rgba(
+    244,
+    244,
+    244,
+    0.726
+  ); /* Gris claro y semitransparente */
+  border: none; /* Opcional: quitar el borde si no lo deseas */
+  backdrop-filter: blur(2px); /* Opcional: añade un efecto de desenfoque */
+}
+
+/* .caracteristicas {
+    background-color: #1e1a13;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    padding: 1em 0 1em 0;
+  } */
